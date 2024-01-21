@@ -1,0 +1,24 @@
+{
+  "name": "aggregateam",
+  "version": "1.0.0",
+  "description": "Aggreateam is a Node.js command-line application that takes information of employees on a team and generates an HTML webpage which displays contact cards for each employee.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluwaseunolusanya/aggregateam.git"
+  },
+  "keywords": [
+    "team",
+    "html",
+    "employee"
+  ],
+  "author": "Oluwaseun Olusanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oluwaseunolusanya/aggregateam/issues"
+  },
+  "homepage": "https://github.com/oluwaseunolusanya/aggregateam#readme"
+}
