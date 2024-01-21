@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/oluwaseunolusanya/aggregateam/issues"
   },
-  "homepage": "https://github.com/oluwaseunolusanya/aggregateam#readme"
+  "homepage": "https://github.com/oluwaseunolusanya/aggregateam#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "jest": "^29.7.0"
+  }
 }
