@@ -1,15 +1,22 @@
 # Aggregateam                                [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description                       
 Aggreateam is a Node.js command-line application developed using Test-Driven Development. It takes information of employees on a team and generates an HTML webpage which displays contact cards for each employee.
 The tools/technologies includes Node.js, NPM Inquirer.js and Jest.js
 
 ## Table of Contents 
 [Description](#description)
+
 [Installation](#installation)
+
 [Usage](#usage) 
+
 [License](#license)
+
 [Contributing](#contributing) 
+
 [Tests](#tests) 
+
 [Questions](#questions)
 
 ## Installation 
